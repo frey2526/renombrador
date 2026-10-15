@@ -1,0 +1,6 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Carpeta de pruebas (datos, no parte del proyecto)
+pruebas/
